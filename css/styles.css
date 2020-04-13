@@ -1,10 +1,16 @@
 @charset "utf-8";
 
 body {
-	background-color: #FF0004;
-	color:#00FF03
+	background-color:#17239A;
+	color:#008AFF;
+	font-family: 'PT Serif', serif;
 }
 
 .galaxy-background {
-	background-image: url(../images/galaxy_uncut.jpg)
+	background-image: url(../images/Header_background1.jpg)
 }
+
+.my-navbar {
+	background-color:#17239A; 
+}
+
